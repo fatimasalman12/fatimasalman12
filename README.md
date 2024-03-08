@@ -1,4 +1,4 @@
-
+![logo](https://www.canva.com/design/DAF-9FInMRg/BytRSA8qpmb7SEbrLCveqg/view?utm_content=DAF-9FInMRg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 # 💫 About Me:
 I am a Computer Science student studying at Fast Nuces Lahore, currently in my 6th semester of Bachelors degree. <br>I am currently learning MERN stack development along with AI<br>
 
