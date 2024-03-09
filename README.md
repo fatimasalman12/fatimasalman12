@@ -1,4 +1,4 @@
-![logo](https://github.com/fatimasalman12/fatimasalman12/blob/main/canva%20template.png)
+![logo](github.png)
 # 💫 About Me:
 I am a Computer Science student studying at Fast Nuces Lahore. <br>I am currently learning MERN stack development along with AI<br>
 
