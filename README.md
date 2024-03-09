@@ -1,3 +1,4 @@
+![logo](https://github.com/fatimasalman12/fatimasalman12/blob/main/canva%20template.png)
 # 💫 About Me:
 I am a Computer Science student studying at Fast Nuces Lahore, currently in my 6th semester of Bachelors degree. <br>I am currently learning MERN stack development along with AI<br>
 
