@@ -1,6 +1,3 @@
-![logo](github.png)
-# 💫 About Me:
-I am a Computer Science student studying at Fast Nuces Lahore. <br>I am currently learning MERN stack development along with AI<br>
 
 
 ## 🌐 Socials:
